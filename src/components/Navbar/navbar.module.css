@@ -1,0 +1,13 @@
+.navbar{
+    display: flex;
+    flex-direction: column;
+}
+
+.navbar__user{
+    display: flex;
+}
+
+.list{
+    display: flex;
+    list-style: none;
+}

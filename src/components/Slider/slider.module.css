@@ -1,0 +1,13 @@
+.fullSlider{
+    width: 100%;
+}
+
+.midiumSlider{
+    width: 45%;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+.slider__img{
+    width: 100%;
+}

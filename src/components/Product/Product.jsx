@@ -1,9 +1,10 @@
 import img from '../../data/images/wheelchair.jpg'
+import styles from './product.module.css'
 
 export default function Product({item}){
-    return(<div>
+    return(<div key={item.id} className={styles.product}>
         <div>
-            <img src={img} alt="" />
+            <img className={styles.img} src={img} alt="" />
         </div>
         <div>
             <span>{item.name || 'Prueba Producto'}</span><br />

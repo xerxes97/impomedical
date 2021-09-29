@@ -1,9 +1,10 @@
+import styles from './card.module.css'
 import img from '../../data/images/tapabocas.jpg'
 
 export default function Card({id, name, image}){
-    return(<div key={id}>
+    return(<div className={styles.card} key={id}>
         <div>
-            <img src={img} alt="" />
+            <img className={styles.img} src={img} alt="" />
         </div>
         <div>
             <span>{name}</span>
