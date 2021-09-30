@@ -1,3 +1,5 @@
+
+
 .home__elements{
     display: flex;
     justify-content: space-evenly;
@@ -41,7 +43,8 @@
 .option{
     width: 25%;
     margin: 5px;
-    background-color: aqua;
+    color: white;
+    background-color: #016fe2;
     padding: 5px 0px;
     border-radius: 5px 5px 0px 0px;
     cursor: pointer;

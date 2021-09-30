@@ -12,7 +12,7 @@ export default function Home(){
         <Navbar/>
         <Slider img={'home.jpg'} size={1}/>
         <CardsContainer/>
-        <Help/>
+        {/* <Help/> */}
         <Products type='NUEVA COLECCIÓN' newLine={true}/>
         <div className={styles.content__filter}>
             <div className={styles.filter__gray}></div>
@@ -21,7 +21,7 @@ export default function Home(){
                 <li className={styles.option}>TERAPIA DEL HOGAR</li>
                 <li className={styles.option}>MOVILIDAD</li>
             </ul>
-            <Products style={'white'} type='AYUDAS PARA LA MARCHA'/>
+            <Products sty={'white'} type='AYUDAS PARA LA MARCHA'/>
         </div>
         <div className={styles.home__elements}>
             <Slider img={'img1.jpg'} size={0}/>

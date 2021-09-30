@@ -5,3 +5,17 @@
 .img{
     width: 100%;
 }
+
+.productInfo{
+    text-align: left;
+}
+
+.productBtn{
+    width: 100%;
+    border: none;
+    padding: 10px 0px;
+    color: white;
+    background-color: #016fdf;
+    cursor: pointer;
+    margin-top: 10px;
+}
