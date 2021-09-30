@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/impomedical/static/css/main.f0f9b984.chunk.css",
+    "main.js": "/impomedical/static/js/main.efe29654.chunk.js",
+    "main.js.map": "/impomedical/static/js/main.efe29654.chunk.js.map",
+    "runtime-main.js": "/impomedical/static/js/runtime-main.ad641520.js",
+    "runtime-main.js.map": "/impomedical/static/js/runtime-main.ad641520.js.map",
+    "static/js/2.add399ed.chunk.js": "/impomedical/static/js/2.add399ed.chunk.js",
+    "static/js/2.add399ed.chunk.js.map": "/impomedical/static/js/2.add399ed.chunk.js.map",
+    "static/js/3.c8c02647.chunk.js": "/impomedical/static/js/3.c8c02647.chunk.js",
+    "static/js/3.c8c02647.chunk.js.map": "/impomedical/static/js/3.c8c02647.chunk.js.map",
+    "index.html": "/impomedical/index.html",
+    "static/css/main.f0f9b984.chunk.css.map": "/impomedical/static/css/main.f0f9b984.chunk.css.map",
+    "static/js/2.add399ed.chunk.js.LICENSE.txt": "/impomedical/static/js/2.add399ed.chunk.js.LICENSE.txt",
+    "static/media/Epartner2.17480817.png": "/impomedical/static/media/Epartner2.17480817.png",
+    "static/media/Vtex.8af269a9.png": "/impomedical/static/media/Vtex.8af269a9.png",
+    "static/media/home.module.css": "/impomedical/static/media/chair.f94cccbd.jpg",
+    "static/media/home.jpg": "/impomedical/static/media/home.5af6771e.jpg",
+    "static/media/img1.jpg": "/impomedical/static/media/img1.015156bf.jpg",
+    "static/media/img2.jpg": "/impomedical/static/media/img2.174ece4f.jpg",
+    "static/media/tapabocas.f932b0d4.jpg": "/impomedical/static/media/tapabocas.f932b0d4.jpg",
+    "static/media/wheelchair.8d9ac7e9.jpg": "/impomedical/static/media/wheelchair.8d9ac7e9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad641520.js",
+    "static/js/2.add399ed.chunk.js",
+    "static/css/main.f0f9b984.chunk.css",
+    "static/js/main.efe29654.chunk.js"
+  ]
+}
